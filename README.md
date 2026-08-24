@@ -11,6 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2026-07-23]** [Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On](https://arxiv.org/abs/2607.21694) **(arXiv)** [![Star](https://img.shields.io/github/stars/OxygenVision/Oxygen-TryOn.svg?style=social&label=Star)](https://github.com/OxygenVision/Oxygen-TryOn)
 - **[2026-06-26]** [OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation](https://arxiv.org/abs/2606.27880) **(ECCV 2026)** [![Star](https://img.shields.io/github/stars/NJU-PCALab/OrthoTryOn.svg?style=social&label=Star)](https://github.com/NJU-PCALab/OrthoTryOn)
 - **[2026-06-10]** [FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control](https://arxiv.org/abs/2606.12012) **(arXiv)** [![Star](https://img.shields.io/github/stars/ZenoNing/FitVTON.svg?style=social&label=Star)](https://github.com/ZenoNing/FitVTON)
 - **[2026-06-03]** [PG-VTON: Single-Pass Training-Free Virtual Try-On via Patch-Guided Reference Alignment](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_PG-VTON_Single-Pass_Training-Free_Virtual_Try-On_via_Patch-Guided_Reference_Alignment_CVPR_2026_paper.html) **(CVPR 2026)** [![Star](https://img.shields.io/github/stars/PKU-ICST-MIPL/PG-VTON_CVPR2026.svg?style=social&label=Star)](https://github.com/PKU-ICST-MIPL/PG-VTON_CVPR2026)
