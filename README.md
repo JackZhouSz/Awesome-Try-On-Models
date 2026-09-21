@@ -11,6 +11,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 **If you're interested in VTON or find this repo helpful, please 🌟star  and  👀 watch it !**
 
 ## Image-based Models
+- **[2026-07-24]** [Layering Virtual Try-On](https://arxiv.org/abs/2607.22924) **(ECCV 2026)** [![Star](https://img.shields.io/github/stars/ChuenFung/Layering-Virtual-Try-On.svg?style=social&label=Star)](https://github.com/ChuenFung/Layering-Virtual-Try-On)
 - **[2026-07-23]** [Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On](https://arxiv.org/abs/2607.21694) **(arXiv)** [![Star](https://img.shields.io/github/stars/OxygenVision/Oxygen-TryOn.svg?style=social&label=Star)](https://github.com/OxygenVision/Oxygen-TryOn)
 - **[2026-06-26]** [OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation](https://arxiv.org/abs/2606.27880) **(ECCV 2026)** [![Star](https://img.shields.io/github/stars/NJU-PCALab/OrthoTryOn.svg?style=social&label=Star)](https://github.com/NJU-PCALab/OrthoTryOn)
 - **[2026-06-10]** [FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control](https://arxiv.org/abs/2606.12012) **(arXiv)** [![Star](https://img.shields.io/github/stars/ZenoNing/FitVTON.svg?style=social&label=Star)](https://github.com/ZenoNing/FitVTON)
@@ -70,6 +71,7 @@ This repository primarily focuses on **image, video, and 3D-based try-on models 
 - **[2023-03-18]** [PL-VTONv2: Limb-Aware Virtual Try-On Network with Progressive Clothing Warping](https://arxiv.org/abs/2503.14074) **(TMM 2023)** [![Star](https://img.shields.io/github/stars/aipixel/PL-VTONv2.svg?style=social&label=Star)](https://github.com/aipixel/PL-VTONv2)
 
 ## Video-based Models
+- **[2026-09-03]** [BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data](https://arxiv.org/abs/2609.04120) **(ACMMM 2026)** [![Star](https://img.shields.io/github/stars/BooMVVT/boomvvt.svg?style=social&label=Star)](https://github.com/BooMVVT/boomvvt)
 - **[2026-06-07]** [OmniTryOn: Video Try-On Anything at Once!](https://arxiv.org/abs/2606.08514) **(arXiv)** [![Star](https://img.shields.io/github/stars/xcltql666/OminTryOn.svg?style=social&label=Star)](https://github.com/xcltql666/OminTryOn)
 - **[2026-05-20]** [iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance](https://arxiv.org/abs/2605.21431) **(ICML 2026)** [Project Page](https://zhengjun-ai.github.io/itryon-page)
 - **[2026-05-15]** [TCE-VTON: Temporal Consistency Enhanced Virtual Try-On Network](https://doi.org/10.1016/j.visinf.2026.100327) **(Visual Informatics 2026)** [![Star](https://img.shields.io/github/stars/Ruanyx1823/TCE-VTON.svg?style=social&label=Star)](https://github.com/Ruanyx1823/TCE-VTON)
